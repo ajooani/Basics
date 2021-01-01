@@ -16,5 +16,5 @@ def read_data(dataset):
 
 
 # main
-data = read_data("sample.csv")  # read data
+data = read_data("sample.csv")  # read data from sample.csv file
 print(data)     # print data
