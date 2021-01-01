@@ -5,7 +5,7 @@ spell = SpellChecker()
 word = 'somethng is hapenning here'     # input string to check
 splited_name = word.split(" ")          # split the words in string
 print("\nSplitted words ", splited_name)
-misspelled = spell.unknown(splited_name)
+misspelled = spell.unknown(splited_name)    # check misspelled word in string
 print("\nMisspelled words: ", misspelled)
 
 
