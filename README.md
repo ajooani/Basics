@@ -7,4 +7,4 @@ To print text in python (First program).
 to generate random integer & float values within bound by numpy & random.
 
 # read_csv.py
-read csv & store the content in list.
+read csv & store the content in list (requires file named sample.csv).
