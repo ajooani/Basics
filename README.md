@@ -1,4 +1,4 @@
 # Basics
 
 # Print text.py
-To print text in python.
+To print text in python (First program).
